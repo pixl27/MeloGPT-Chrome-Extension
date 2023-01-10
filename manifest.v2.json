@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "WebChatGPT",
-  "version": "1.1.1",
-  "description": "Augment your ChatGPT prompts with relevant results from the web.",
+  "name": "MeloGPT",
+  "version": "1.0",
+  "description": "A better version of ChatGPT that can access the web",
   "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
+    "16": "icons/anya.png",
+    "48": "icons/anya.png",
+    "128": "icons/anya.png"
   },
   "permissions": [
     "storage",
