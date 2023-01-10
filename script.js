@@ -69,7 +69,7 @@ function onSubmit(event) {
                     method: 'POST',
                     headers: {
                         'content-type': 'application/json',
-                        'X-RapidAPI-Key': '9496288973msh4d676f7dbc9b866p1ebb33jsn55e2684623c2',
+                        'X-RapidAPI-Key': '',
                         'X-RapidAPI-Host': 'tldrthis.p.rapidapi.com'
                     },
                     body: `{"url": "${results[0].href}","min_length":100,"max_length":300,"is_detailed":false}`
